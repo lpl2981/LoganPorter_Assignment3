@@ -1387,6 +1387,12 @@ pre code {
   max-height: 340px;
   overflow-y: scroll;
 }
+.nav ul{
+  height:200px; width:18%;
+}
+.nav ul {
+  overflow:hidden; overflow-y:scroll;
+}
 .container {
   padding-right: 15px;
   padding-left: 15px;
